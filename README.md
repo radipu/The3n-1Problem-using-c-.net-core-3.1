@@ -1,4 +1,4 @@
-#Considerthefollowingalgorithm:
+#Consider the following algorithm:
 
 #1.input n
 #2.print n
